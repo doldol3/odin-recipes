@@ -1,3 +1,7 @@
 body {
     background-color: #f1caaa;
 }
+
+a:visited {
+    color: #a6652d;
+}
