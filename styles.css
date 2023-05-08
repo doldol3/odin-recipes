@@ -1,7 +1,20 @@
+* {
+    text-align: center;
+}
+
 body {
     background-color: #f1caaa;
 }
 
 a:visited {
     color: #a6652d;
+}
+
+ul, li {
+    list-style-position: inside;
+}
+
+.description {
+    width: 75%;
+    margin: 0 auto;
 }
