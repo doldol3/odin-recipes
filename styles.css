@@ -20,11 +20,13 @@ ul, li {
 
 .description {
     width: 680px;
-    margin: 0 auto;
-
+    margin: 10px auto;
 }
 
 .drinks {
-    margin: 3px auto;
-    display:inline-block
+    margin: 4px auto;
+    display: inline-block;
+    text-decoration: none;
+    background-color: blanchedalmond;
+    padding: 7px;
 }
