@@ -10,6 +10,10 @@ a:visited {
     color: #a6652d;
 }
 
+a:hover {
+    color: #744217;
+}
+
 ul, li {
     list-style-position: inside;
 }
@@ -18,4 +22,9 @@ ul, li {
     width: 680px;
     margin: 0 auto;
 
+}
+
+.drinks {
+    margin: 3px auto;
+    display:inline-block
 }
